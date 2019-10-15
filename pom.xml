@@ -13,6 +13,7 @@
     <module>unittest-demos</module>
     <module>tool-demos</module>
       <module>bigdata-demos</module>
+    <module>work-demos</module>
   </modules>
 
   <name>java-cook-book</name>
