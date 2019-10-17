@@ -9,14 +9,15 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>work-demos</artifactId>
+    <artifactId>code-demos</artifactId>
     <packaging>pom</packaging>
 
-    <name>work-demos</name>
+    <name>code-demos</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
     <modules>
-        <module>interview-questions</module>
+        <module>standard-project-demo</module>
+        <module>java-base-demos</module>
     </modules>
 
     <properties>
