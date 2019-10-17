@@ -10,8 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>spring-demos</artifactId>
+    <packaging>pom</packaging>
 
     <name>spring-demos</name>
+    <modules>
+        <module>spring-boot-demos</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
